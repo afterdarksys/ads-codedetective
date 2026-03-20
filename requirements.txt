@@ -1,0 +1,9 @@
+typer
+rich
+pydantic
+scikit-learn
+PyGitHub
+requests
+torch
+onnx
+onnxruntime
